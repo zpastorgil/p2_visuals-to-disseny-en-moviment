@@ -1,7 +1,7 @@
 # p2_visuals-to-disseny-en-moviment
 El briefing proposa la creació d’una peça audiovisual de 10 segons en format vertical, que explore la creativitat visual a través del moviment, el color i els efectes digitals, amb llibertat per a experimentar amb tècniques d’animació i programació creativa.
 
-##Interactive Light Wall
+## Interactive Light Wall
 Una peça audiovisual generativa que transforma el moviment en una composició de llums, colors i partícules en constant canvi. Inspirada en el soroll digital, les interferències i els sistemes generatius, explora la relació entre el caos, el moviment i la llum.
 
 ## Funcionament
