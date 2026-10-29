@@ -1,6 +1,6 @@
 # p2_visuals-to-disseny-en-moviment
 # Interactive Light Wall · v0.1
-###Una peça audiovisual generativa que transforma el moviment en una composició de llums, colors i partícules en constant canvi. Inspirada en el soroll digital, les interferències i els sistemes generatius, explora la relació entre el caos, el moviment i la llum.
+Una peça audiovisual generativa que transforma el moviment en una composició de llums, colors i partícules en constant canvi. Inspirada en el soroll digital, les interferències i els sistemes generatius, explora la relació entre el caos, el moviment i la llum.
 
 ## Funcionament
 ###Desenvolupada amb **Processing**, la peça genera una superfície de punts i partícules lluminoses que es desplacen, s’agrupen i es dispersen. Durant la creació, la interacció amb el cursor modifica el seu comportament, la seua posició i la seua intensitat, generant patrons imprevisibles.
