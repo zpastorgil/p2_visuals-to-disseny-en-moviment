@@ -1,33 +1,33 @@
 ## p2_visuals-to-disseny-en-moviment
 
-El briefing proposa la creació d'una peça audiovisual de 10 segons en format vertical (1080 × 1920), que explore la creativitat visual a través del moviment, el color i els efectes digitals, amb llibertat per a experimentar amb tècniques d'animació i programació creativa.
+El briefing propone la creación de una pieza audiovisual de 10 segundos en formato vertical (1080 × 1920), que explore la creatividad visual a través del movimiento, el color y los efectos digitales, con libertad para experimentar con técnicas de animación y programación creativa.
 
-## Concepte
-Tres composicions generatives desenvolupades amb **Processing**, totes basades en el *Joc de la Vida* de John Horton Conway (1970): una graella de cel·les que naixen, viuen i moren segons regles simples. Del mateix sistema en sorgeixen tres lectures visuals diferents.
+## Concepto
+Tres composiciones generativas desarrolladas con **Processing**, todas basadas en el *Juego de la Vida* de John Horton Conway (1970): una cuadrícula de celdas que nacen, viven y mueren según reglas simples. Del mismo sistema surgen tres lecturas visuales diferentes.
 
-## Composició 1 (principal): graella blava i groga
-Cel·les quadrades que s'encenen i s'apaguen amb una brillantor suau, sobre un fons fosc i amb una estela de llum. Combina el blau elèctric i el groc.
-- **Interacció:** cap. L'evolució és totalment autònoma.
+## Composición 1 (principal): cuadrícula azul y amarilla
+Celdas cuadradas que se encienden y se apagan con un brillo suave, sobre un fondo oscuro y con una estela de luz. Combina el azul eléctrico y el amarillo.
+- **Interacción:** ninguna. La evolución es totalmente autónoma.
 
-## Composició 2: triangles rosa
-Malla triangular en diverses tonalitats de rosa. Una ona de gir, que naix al centre i es propaga fins a les vores, fa rodar cada triangle 120° sobre el seu propi centre.
-- **Interacció:** en passar el ratolí, es creen més triangles al voltant del cursor.
+## Composición 2: triángulos rosa
+Malla triangular en distintas tonalidades de rosa. Una onda de giro, que nace en el centro y se propaga hasta los bordes, hace rotar cada triángulo 120° sobre su propio centro.
+- **Interacción:** al pasar el ratón, se crean más triángulos alrededor del cursor.
 
-## Composició 3: cercles verds i roig
-Punts lluminosos que orbiten en el·lipses al voltant de la seua cel·la, amb pols i estela. Al verd fluorescent s'afegeix el roig, que apareix de manera puntual com a contrast.
-- **Interacció:** cada clic canvia la direcció de la composició, amb més o menys cercles.
+## Composición 3: círculos verdes y rojo
+Puntos luminosos que orbitan en elipses alrededor de su celda, con pulso y estela. Al verde fluorescente se añade el rojo, que aparece de forma puntual como contraste.
+- **Interacción:** cada clic cambia la dirección de la composición, con más o menos círculos.
 
-## Moviment
-- **Regles cel·lulars:** naixement, supervivència i mort de les cel·les.
-- **Ones:** les pertorbacions es propaguen per la pantalla.
-- **Òrbites i pols:** moviment orgànic i rítmic dels elements.
+## Movimiento
+- **Reglas celulares:** nacimiento, supervivencia y muerte de las celdas.
+- **Ondas:** las perturbaciones se propagan por la pantalla.
+- **Órbitas y pulso:** movimiento orgánico y rítmico de los elementos.
 
-## Color i efectes visuals
-Fons fosc amb colors intensos: blau elèctric i groc, rosa i verd fluorescent amb tocs de roig per a contrastar. Les transparències i les estela de llum generen profunditat i reforcen l'estètica digital.
+## Color y efectos visuales
+Fondo oscuro con colores intensos: azul eléctrico y amarillo, rosa y verde fluorescente con toques de rojo para contrastar. Las transparencias y las estelas de luz generan profundidad y refuerzan la estética digital.
 
-## Objectiu
-Crear tres peces visuals dinàmiques que combinen programació creativa, regles simples i moviment per a generar una experiència abstracta, hipnòtica i imprevisible. El resultat són vídeos de 10 segons que es mostren en mockups de pantalla urbana.
+## Objetivo
+Crear tres piezas visuales dinámicas que combinan programación creativa, reglas simples y movimiento para generar una experiencia abstracta, hipnótica e impredecible. El resultado son vídeos de 10 segundos que se muestran en mockups de pantalla urbana.
 
-## Eines
-- **Processing:** generació de gràfics i animació.
-- **After Effects:** muntatge de les seqüències i integració en els mockups.
+## Herramientas
+- **Processing:** generación de gráficos y animación.
+- **After Effects:** montaje de las secuencias e integración en los mockups.
