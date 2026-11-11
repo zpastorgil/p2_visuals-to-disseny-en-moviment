@@ -1,25 +1,33 @@
-# p2_visuals-to-disseny-en-moviment
-El briefing proposa la creació d’una peça audiovisual de 10 segons en format vertical, que explore la creativitat visual a través del moviment, el color i els efectes digitals, amb llibertat per a experimentar amb tècniques d’animació i programació creativa.
+## p2_visuals-to-disseny-en-moviment
 
-## Interactive Light Wall
-Una peça audiovisual generativa que transforma el moviment en una composició de llums, colors i partícules en constant canvi. Inspirada en el soroll digital, les interferències i els sistemes generatius, explora la relació entre el caos, el moviment i la llum.
+El briefing proposa la creació d'una peça audiovisual de 10 segons en format vertical (1080 × 1920), que explore la creativitat visual a través del moviment, el color i els efectes digitals, amb llibertat per a experimentar amb tècniques d'animació i programació creativa.
 
-## Funcionament
-Desenvolupada amb **Processing**, la peça genera una superfície de punts i partícules lluminoses que es desplacen, s’agrupen i es dispersen. Durant la creació, la interacció amb el cursor modifica el seu comportament, la seua posició i la seua intensitat, generant patrons imprevisibles.
+## Concepte
+Tres composicions generatives desenvolupades amb **Processing**, totes basades en el *Joc de la Vida* de John Horton Conway (1970): una graella de cel·les que naixen, viuen i moren segons regles simples. Del mateix sistema en sorgeixen tres lectures visuals diferents.
 
-## Moviment i interacció
-- **Soroll:** moviments irregulars que creen composicions canviants.
-- **Atracció i repulsió:** les partícules reaccionen a la posició del cursor.
+## Composició 1 (principal): graella blava i groga
+Cel·les quadrades que s'encenen i s'apaguen amb una brillantor suau, sobre un fons fosc i amb una estela de llum. Combina el blau elèctric i el groc.
+- **Interacció:** cap. L'evolució és totalment autònoma.
+
+## Composició 2: triangles rosa
+Malla triangular en diverses tonalitats de rosa. Una ona de gir, que naix al centre i es propaga fins a les vores, fa rodar cada triangle 120° sobre el seu propi centre.
+- **Interacció:** en passar el ratolí, es creen més triangles al voltant del cursor.
+
+## Composició 3: cercles verds i roig
+Punts lluminosos que orbiten en el·lipses al voltant de la seua cel·la, amb pols i estela. Al verd fluorescent s'afegeix el roig, que apareix de manera puntual com a contrast.
+- **Interacció:** cada clic canvia la direcció de la composició, amb més o menys cercles.
+
+## Moviment
+- **Regles cel·lulars:** naixement, supervivència i mort de les cel·les.
 - **Ones:** les pertorbacions es propaguen per la pantalla.
-- **Dispersió:** els elements es fragmenten i es reorganitzen contínuament.
+- **Òrbites i pols:** moviment orgànic i rítmic dels elements.
 
 ## Color i efectes visuals
-La composició combina un fons fosc amb colors intensos, com el blau elèctric, el cian, el violeta i els destells càlids. La llum, les transparències i les esteles generen profunditat, mentre que les distorsions i les variacions cromàtiques reforcen l'estètica digital.
+Fons fosc amb colors intensos: blau elèctric i groc, rosa i verd fluorescent amb tocs de roig per a contrastar. Les transparències i les estela de llum generen profunditat i reforcen l'estètica digital.
 
 ## Objectiu
-Crear una peça visual dinàmica que combine programació creativa, soroll i moviment per a generar una experiència abstracta i immersiva. El resultat serà un vídeo de 10 segons en què les partícules evolucionen contínuament, creant una composició lluminosa i imprevisible.
+Crear tres peces visuals dinàmiques que combinen programació creativa, regles simples i moviment per a generar una experiència abstracta, hipnòtica i imprevisible. El resultat són vídeos de 10 segons que es mostren en mockups de pantalla urbana.
 
 ## Eines
 - **Processing:** generació de gràfics i animació.
-- **Sistemes de partícules i soroll:** creació de moviments orgànics i patrons aleatoris.
-- **Programació generativa:** transformació de la imatge mitjançant regles i paràmetres.
+- **After Effects:** muntatge de les seqüències i integració en els mockups.
