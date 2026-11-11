@@ -26,7 +26,7 @@ Puntos luminosos que orbitan en elipses alrededor de su celda, con pulso y estel
 Fondo oscuro con colores intensos: azul eléctrico y amarillo, rosa y verde fluorescente con toques de rojo para contrastar. Las transparencias y las estelas de luz generan profundidad y refuerzan la estética digital.
 
 ## Objetivo
-Crear tres piezas visuales dinámicas que combinan programación creativa, reglas simples y movimiento para generar una experiencia abstracta, hipnótica e impredecible. El resultado son vídeos de 10 segundos que se muestran en mockups de pantalla urbana.
+Crear tres piezas visuales dinámicas que combinan programación creativa, reglas simples y movimiento para generar una experiencia abstracta, hipnótica e impredecible. El resultado es un vídeo de 10 segundos que se muestra el vídeo principal en mockup de pantalla urbana.
 
 ## Herramientas
 - **Processing:** generación de gráficos y animación.
